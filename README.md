@@ -3,4 +3,4 @@ Tool for creating **Chinese character** indices sorted by many criteria such as 
 
 Note: some errata may occur due to the sources.
 
-The **Chinese character** is also known as Han character, CJK(V) character, hanzi, kanji, hanja, hantu, sinogram, or sinograph.
+The **Chinese character** is also known as Han character, CJK(V) character, hanzi, kanji, hanja, hantu, sinogram, sinograph, sawndip, etc.
